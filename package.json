@@ -1,0 +1,20 @@
+{
+  "name": "webpack-outdated-browser-rework-example",
+  "version": "1.0.0",
+  "description": "An example project showing how to use outdated-browser-rework with webpack",
+  "scripts": {
+    "build": "webpack"
+  },
+  "main": "index.js",
+  "author": "Ilias Trichopoulos",
+  "license": "MIT",
+  "devDependencies": {
+    "css-loader": "^3.2.0",
+    "style-loader": "^1.0.0",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.9"
+  },
+  "dependencies": {
+    "outdated-browser-rework": "^2.9.0"
+  }
+}
