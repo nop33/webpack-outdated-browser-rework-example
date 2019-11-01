@@ -2,4 +2,7 @@
 An example project showing how to use [outdated-browser-rework](https://github.com/mikemaccana/outdated-browser-rework) with webpack.
 
 ## Build
-`yarn build`
+```
+yarn
+yarn build
+```
